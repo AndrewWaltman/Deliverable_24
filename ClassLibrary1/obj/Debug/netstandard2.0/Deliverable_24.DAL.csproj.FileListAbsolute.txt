@@ -1,0 +1,9 @@
+C:\Users\Andrew\Desktop\Shtuff\Coding\Grand Circus\Unit 6\Deliverable_24\ClassLibrary1\bin\Debug\netstandard2.0\Deliverable_24.DAL.deps.json
+C:\Users\Andrew\Desktop\Shtuff\Coding\Grand Circus\Unit 6\Deliverable_24\ClassLibrary1\bin\Debug\netstandard2.0\Deliverable_24.DAL.dll
+C:\Users\Andrew\Desktop\Shtuff\Coding\Grand Circus\Unit 6\Deliverable_24\ClassLibrary1\bin\Debug\netstandard2.0\Deliverable_24.DAL.pdb
+C:\Users\Andrew\Desktop\Shtuff\Coding\Grand Circus\Unit 6\Deliverable_24\ClassLibrary1\obj\Debug\netstandard2.0\Deliverable_24.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\Shtuff\Coding\Grand Circus\Unit 6\Deliverable_24\ClassLibrary1\obj\Debug\netstandard2.0\Deliverable_24.DAL.AssemblyInfoInputs.cache
+C:\Users\Andrew\Desktop\Shtuff\Coding\Grand Circus\Unit 6\Deliverable_24\ClassLibrary1\obj\Debug\netstandard2.0\Deliverable_24.DAL.AssemblyInfo.cs
+C:\Users\Andrew\Desktop\Shtuff\Coding\Grand Circus\Unit 6\Deliverable_24\ClassLibrary1\obj\Debug\netstandard2.0\Deliverable_24.DAL.dll
+C:\Users\Andrew\Desktop\Shtuff\Coding\Grand Circus\Unit 6\Deliverable_24\ClassLibrary1\obj\Debug\netstandard2.0\Deliverable_24.DAL.pdb
+C:\Users\Andrew\Desktop\Shtuff\Coding\Grand Circus\Unit 6\Deliverable_24\ClassLibrary1\obj\Debug\netstandard2.0\Deliverable_24.DAL.csprojAssemblyReference.cache

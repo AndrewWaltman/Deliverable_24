@@ -1,0 +1,5 @@
+C:\Users\Andrew\Desktop\Shtuff\Coding\Grand Circus\Unit 6\Deliverable_24\Deliverable_24.DAL\bin\Debug\netcoreapp3.1\Deliverable_24.DAL.deps.json
+C:\Users\Andrew\Desktop\Shtuff\Coding\Grand Circus\Unit 6\Deliverable_24\Deliverable_24.DAL\bin\Debug\netcoreapp3.1\Deliverable_24.DAL.dll
+C:\Users\Andrew\Desktop\Shtuff\Coding\Grand Circus\Unit 6\Deliverable_24\Deliverable_24.DAL\obj\Debug\netcoreapp3.1\Deliverable_24.DAL.csprojAssemblyReference.cache
+C:\Users\Andrew\Desktop\Shtuff\Coding\Grand Circus\Unit 6\Deliverable_24\Deliverable_24.DAL\obj\Debug\netcoreapp3.1\Deliverable_24.DAL.AssemblyInfoInputs.cache
+C:\Users\Andrew\Desktop\Shtuff\Coding\Grand Circus\Unit 6\Deliverable_24\Deliverable_24.DAL\obj\Debug\netcoreapp3.1\Deliverable_24.DAL.AssemblyInfo.cs

@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Register";
+}
+
+    <form asp-controller="Home" asp-action="Register">
+        <fieldset>
+            <legend>Register</legend>
+
+            <label for="FirstName">First Name:</label><br />
+            <input type="text" name="First Name" /><br />
+
+            <label for="LastName">Last Name:</label><br />
+            <input type="text" name="Last Name" /><br />
+
+            <label for="Email">Email:</label><br />
+            <input type="email" name="Email" /><br />
+
+            <label for="Password">Password:</label><br />
+            <input type="text" name="Password" /><br />
+
+            <label for="Balance">Balance:</label><br />
+            <input type="number" name="Balance" /><br />
+        </fieldset>
+
+        <br><input type="submit">
+
+    </form>
